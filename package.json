@@ -1,0 +1,23 @@
+{
+  "name": "machineLearningPlayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryanholly3/machineLearningPlayground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryanholly3/machineLearningPlayground/issues"
+  },
+  "homepage": "https://github.com/Ryanholly3/machineLearningPlayground#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.14.2"
+  }
+}
